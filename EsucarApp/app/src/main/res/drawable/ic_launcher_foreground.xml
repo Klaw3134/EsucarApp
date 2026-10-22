@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Escudo simple (ícono genérico de la app) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L74,38 L74,54 C74,66 65,75 54,79 C43,75 34,66 34,54 L34,38 Z" />
+    <path
+        android:fillColor="#2E6B30"
+        android:pathData="M54,36 L68,42 L68,54 C68,62.5 62,69 54,72.5 C46,69 40,62.5 40,54 L40,42 Z" />
+</vector>
